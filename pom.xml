@@ -12,11 +12,11 @@
   <url>http://maven.apache.org</url>
 
   <scm>
-    <connection>scm:svn:https://svn.redirontech.com:443/svn/RedIron/internal/Enactor/Products/HelloMaven/</connection>
-    <developerConnection>scm:svn:https://svn.redirontech.com:443/svn/RedIron/internal/Enactor/Products/HelloMaven/</developerConnection>
-    <url>https://svn.redirontech.com:443/svn/</url>
+    <connection>scm:git:https://github.com/kzebian/HelloMaven.git</connection>
+    <developerConnection>scm:git:https://github.com/kzebian/HelloMaven.git</developerConnection>
+    <url>https://github.com/kzebian/</url>
   </scm>
-  
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -41,7 +41,7 @@
       <url>http://192.168.31.150:8081/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
-  
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
