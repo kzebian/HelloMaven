@@ -3,7 +3,7 @@
 
   <groupId>com.rediron.example</groupId>
   <artifactId>HelloMaven</artifactId>
-  <version>1.0.170</version>
+  <version>1.0.171-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>HelloMaven</name>
@@ -13,7 +13,7 @@
     <connection>scm:git:https://git@github.com/kzebian/HelloMaven.git</connection>
     <developerConnection>scm:git:https://git@github.com/kzebian/HelloMaven.git</developerConnection>
     <url>https://github.com/kzebian/HelloMaven</url>
-    <tag>HelloMaven-1.0.170</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
