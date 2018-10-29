@@ -12,8 +12,9 @@
   <url>http://maven.apache.org</url>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/kzebian/HelloMaven.git</developerConnection>
-    <url>https://github.com/kzebian/repositories</url>
+    <connection>scm:git:ssh://git@github.com/kzebian/HelloMaven.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/kzebian/HelloMaven.git</developerConnection>
+    <url>https://github.com/kzebian/HelloMaven</url>
   </scm>
 
   <properties>
